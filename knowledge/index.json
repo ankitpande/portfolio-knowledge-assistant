@@ -1,1 +1,108 @@
 
+[
+  {
+    "id": "about-profile",
+    "title": "Profile",
+    "category": "about",
+    "summary": "Professional profile and introduction of Ankit Pandey.",
+    "file": "about/profile.md",
+    "tags": [
+      "ankit",
+      "profile",
+      "about",
+      "introduction"
+    ],
+    "related": [
+      "experience-bajaj-finserv",
+      "skill-ai"
+    ],
+    "priority": 10,
+    "lastUpdated": "2026-07-24",
+    "version": "1.0"
+  },
+  {
+    "id": "experience-bajaj-finserv",
+    "title": "Bajaj Finserv",
+    "category": "experience",
+    "summary": "Current role, responsibilities and achievements at Bajaj Finserv.",
+    "file": "experience/bajaj-finserv.md",
+    "tags": [
+      "experience",
+      "bajaj",
+      "finserv",
+      "product",
+      "fintech",
+      "leadership"
+    ],
+    "related": [
+      "about-profile",
+      "project-policy-review-assistant"
+    ],
+    "priority": 9,
+    "lastUpdated": "2026-07-24",
+    "version": "1.0"
+  },
+  {
+    "id": "project-policy-review-assistant",
+    "title": "Policy Review Assistant",
+    "category": "project",
+    "summary": "AI solution for assisting credit analysts with policy review and decision support.",
+    "file": "projects/policy-review-assistant.md",
+    "tags": [
+      "ai",
+      "rag",
+      "policy",
+      "credit",
+      "assistant",
+      "gemini"
+    ],
+    "related": [
+      "experience-bajaj-finserv",
+      "skill-ai"
+    ],
+    "priority": 8,
+    "lastUpdated": "2026-07-24",
+    "version": "1.0"
+  },
+  {
+    "id": "skill-ai",
+    "title": "Artificial Intelligence",
+    "category": "skill",
+    "summary": "AI skills, technologies, learning roadmap and hands-on projects.",
+    "file": "skills/ai.md",
+    "tags": [
+      "ai",
+      "llm",
+      "rag",
+      "agents",
+      "mcp",
+      "python"
+    ],
+    "related": [
+      "project-policy-review-assistant",
+      "about-profile"
+    ],
+    "priority": 7,
+    "lastUpdated": "2026-07-24",
+    "version": "1.0"
+  },
+  {
+    "id": "certification-iim-calcutta",
+    "title": "IIM Calcutta",
+    "category": "certification",
+    "summary": "Education and certifications.",
+    "file": "certifications/iim-calcutta.md",
+    "tags": [
+      "education",
+      "iim",
+      "mba",
+      "certification"
+    ],
+    "related": [
+      "about-profile"
+    ],
+    "priority": 5,
+    "lastUpdated": "2026-07-24",
+    "version": "1.0"
+  }
+]
