@@ -87,6 +87,24 @@
     "version": "1.0"
   },
   {
+  "path": "education/education.md",
+  "title": "Education",
+  "keywords": [
+    "education",
+    "college",
+    "degree",
+    "qualification",
+    "iim",
+    "iim calcutta",
+    "tapmi",
+    "mba",
+    "engineering",
+    "computer science",
+    "be",
+    "bachelor"
+  ]
+},
+  {
     "id": "certification-iim-calcutta",
     "title": "IIM Calcutta",
     "category": "certification",
