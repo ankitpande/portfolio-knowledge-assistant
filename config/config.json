@@ -1,0 +1,7 @@
+{
+  "knowledgePath": "knowledge/",
+  "supportedExtensions": [
+    ".md"
+  ],
+  "maxFiles": 3
+}
