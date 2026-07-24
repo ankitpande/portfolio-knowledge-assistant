@@ -1,5 +1,11 @@
 # Bajaj Finserv
 employer: "Bajaj Finserv · Pune · 6+ years",
+
+Ankit Pandey is the National lead AI for the Insta EMI Card at Bajaj Finserv.
+
+He leads product strategy, roadmap, customer acquisition, cross-sell initiatives, and AI-driven product enhancements.
+
+He has over 11 years of experience in product management, analytics, and digital lending.
       roles: 
         { year: "Jun 2026 – Present", title: "National Lead – AI", detail: "Leading AI strategy across the digital lending business." },
         { year: "May 2023 – Jun 2026", title: "Deputy National Lead", detail: "Scaled the Insta EMI Card portfolio to 10M+ customers, generating ₹30Cr+ cross-sell revenue; drove 30% funnel conversion improvement via alternate data underwriting and multibureau strategy; led a 15-member cross-functional team." },
