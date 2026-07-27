@@ -10,7 +10,17 @@
       "ankit",
       "profile",
       "about",
-      "introduction"
+      "introduction",
+      "contact",
+      "email",
+      "linkedin",
+      "github",
+      "phone",
+      "reach",
+      "hire",
+      "socials",
+      "location",
+      "connect"
     ],
     "related": [
       "experience-bajaj-finserv",
@@ -76,7 +86,9 @@
       "rag",
       "agents",
       "mcp",
-      "python"
+      "python",
+      "ml",
+      "machine learning"
     ],
     "related": [
       "project-policy-review-assistant",
