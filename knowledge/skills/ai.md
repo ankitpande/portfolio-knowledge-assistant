@@ -1,5 +1,6 @@
+# Technical Skills - Analytics & AI
 
-  "Product Strategy & Roadmap", "Digital Lending", "Risk Analytics", "Underwriting Strategy",
-    "AI/ML Integration", "NLP", "Reinforcement Learning", "Predictive Modeling",
-    "Multibureau Strategy", "Alternate Data Underwriting", "Funnel Optimization", "UI/UX",
-    "Customer Experience", "Team Leadership", "KPI Governance", "Python", "SQL", "Power BI"
+## Core Competencies
+- **Artificial Intelligence & Machine Learning:** Natural Language Processing (NLP), Predictive Modeling, Reinforcement Learning, Risk Analytics, Alternate Data Underwriting[cite: 1].
+- **Data & Funnel Science:** Funnel Analytics, Behavioral Segmentation, A/B Testing, Multibureau Decisioning Strategies[cite: 1].
+- **Tools & Ecosystems:** Python, SQL, JIRA, Power BI[cite: 1].
