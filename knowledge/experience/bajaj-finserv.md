@@ -1,14 +1,16 @@
-# Bajaj Finserv
-employer: "Bajaj Finserv · Pune · 6+ years",
+# Professional Experience - Bajaj Finserv
 
-Ankit Pandey is the National lead AI for the Insta EMI Card at Bajaj Finserv.
+## Role & Tenure
+- **Title:** Deputy National Lead - Digital Lending & Analytics Transformation[cite: 1]
+- **Company:** Bajaj Finserv[cite: 1]
+- **Duration:** March 2020 – Present[cite: 1]
+- **Location:** Pune, India[cite: 1]
 
-He leads product strategy, roadmap, customer acquisition, cross-sell initiatives, and AI-driven product enhancements.
-
-He has over 11 years of experience in product management, analytics, and digital lending.
-      roles: 
-        { year: "Jun 2026 – Present", title: "National Lead – AI", detail: "Leading AI strategy across the digital lending business." },
-        { year: "May 2023 – Jun 2026", title: "Deputy National Lead", detail: "Scaled the Insta EMI Card portfolio to 10M+ customers, generating ₹30Cr+ cross-sell revenue; drove 30% funnel conversion improvement via alternate data underwriting and multibureau strategy; led a 15-member cross-functional team." },
-        { year: "Sep 2021 – May 2023", title: "Senior Lead", detail: "Product management and analytics leadership within the digital lending organization." },
-        { year: "Mar 2020 – Sep 2021", title: "Lead", detail: "Joined Bajaj Finserv leading analytics initiatives for the digital lending business." }
-      
+## Key Responsibilities & Impact
+- Led strategy, analytics, and digital transformation initiatives for the "Insta EMI Card" business, successfully scaling the portfolio to over 10 million customers[cite: 1].
+- Generated over ₹30 Crore in cross-sell revenue through direct purchase and customer lifecycle initiatives[cite: 1].
+- Drove data and analytics-led funnel optimization, resulting in a 30% improvement in funnel conversions via application prefill, multibureau underwriting, SDK deployment, alternate data strategies, and digital onboarding enhancements[cite: 1].
+- Launched a DIY credit report and limit enhancement journey leveraging the Account Aggregator ecosystem, generating ₹6 Crore in annualized revenue and enabling over 600,000 customer connections[cite: 1].
+- Managed and mentored a 15-member cross-functional team across product, analytics, business, and technology functions, resulting in 3 team members promoted to leadership roles[cite: 1].
+- Governed over 100 business, risk, and customer KPIs to drive portfolio growth, profitability, and operational efficiency[cite: 1].
+- Designed advanced segmentation frameworks using behavioral, bureau, and transactional data to enhance offer precision and approval quality, alongside running A/B testing experiments on product variants and UI/UX flows[cite: 1].
