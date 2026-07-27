@@ -1,16 +1,15 @@
-# About Ankit
+# Ankit Pandey - Professional Profile
 
- name: "Ankit Pandey",
-  role: "National Lead – AI, Bajaj Finance Limited",
-  location: "Pune, Maharashtra, India",
-  email: "ankitpandeycs@gmail.com",
-  linkedin: "linkedin.com/in/ankitpandeycs",
-  connections: "500+ connections",
-  dek: "Product & Risk Strategist with 11+ years scaling digital lending and fintech platforms across India's leading financial institutions — now leading AI strategy at Bajaj Finance.",
-  bio: "Passionate Product & Risk Strategist with 11+ years of experience scaling digital lending and fintech platforms across India's leading financial institutions. My core strength lies in combining product innovation, data-driven risk frameworks, and AI/ML integration to build scalable, compliant, and customer-centric solutions. I have deep expertise in real-time underwriting and limit management, leveraging multibureau data and alternative data sources to drive smarter decisions.",
-  now: "I'm currently National Lead – AI at Bajaj Finance Limited, expanding my focus into AI/ML applications for fintech and leading teams that integrate product strategy, data strategy, and risk management to create transformative digital experiences. Previously, as Deputy National Lead, I scaled the Insta EMI Card business to 10M+ customers and generated ₹30Cr+ in cross-sell revenue. I'm open to senior roles in Product, Risk, or Growth where data-first decision-making sits at the heart of the business.",
-  skills: 
-    "Product Strategy & Roadmap", "Digital Lending", "Risk Analytics", "Underwriting Strategy",
-    "AI/ML Integration", "NLP", "Reinforcement Learning", "Predictive Modeling",
-    "Multibureau Strategy", "Alternate Data Underwriting", "Funnel Optimization", "UI/UX",
-    "Customer Experience", "Team Leadership", "KPI Governance", "Python", "SQL", "Power BI"
+## Overview
+Ankit Pandey is an analytics and digital lending transformation leader[cite: 1] based in Pune, India[cite: 1], with over 12 years of experience[cite: 1] across NBFCs, banking, fintech, and consumer lending ecosystems[cite: 1]. He specializes in scaling digital lending[cite: 1], risk analytics[cite: 1], underwriting strategies[cite: 1], and analytics-led customer lifecycle optimization[cite: 1].
+
+## Core Expertise
+- **Product & Business Leadership:** Product Strategy & Roadmap, Digital Transformation, Stakeholder Management, Agile Delivery, Team Leadership & Mentoring, KPI Governance[cite: 1].
+- **Analytics & AI:** Natural Language Processing (NLP), Predictive Modeling, Reinforcement Learning, Risk Analytics, Alternate Data Underwriting, Funnel Analytics[cite: 1].
+- **Domain Expertise:** Digital Lending, Consumer Loans, EMI Cards, Credit Risk & Underwriting, Multibureau Strategy, Cross-Sell, API-Led DIY Journeys[cite: 1].
+- **Technical Tools:** Python, SQL, JIRA, Power BI[cite: 1].
+
+## Education Summary
+- **EPBA - Business Analytics:** Indian Institute of Management (IIM), Calcutta (2016–2018)[cite: 1].
+- **PGDM - Finance & IT:** T.A. Pai Management Institute (TAPMI), Manipal (2014–2016)[cite: 1].
+- **B.E./B.Tech - Computer Science:** Shri Vaishnav Institute of Technology and Science (SVITS), Indore (2008–2012)[cite: 1].
