@@ -6,7 +6,7 @@
     "category": "about",
     "summary": "Professional profile and introduction of Ankit Pandey.",
     "file": "about/profile.md",
-    "tags": [
+    "keywords": [
       "ankit",
       "profile",
       "about",
@@ -36,7 +36,7 @@
     "category": "experience",
     "summary": "Current role, responsibilities and achievements at Bajaj Finserv.",
     "file": "experience/bajaj-finserv.md",
-    "tags": [
+    "keywords": [
       "experience",
       "bajaj",
       "finserv",
@@ -58,7 +58,7 @@
     "category": "project",
     "summary": "AI solution for assisting credit analysts with policy review and decision support.",
     "file": "projects/policy-review-assistant.md",
-    "tags": [
+    "keywords": [
       "ai",
       "rag",
       "policy",
@@ -80,7 +80,7 @@
     "category": "skill",
     "summary": "AI skills, technologies, learning roadmap and hands-on projects.",
     "file": "skills/ai.md",
-    "tags": [
+    "keywords": [
       "ai",
       "llm",
       "rag",
@@ -122,7 +122,7 @@
     "category": "certification",
     "summary": "Education and certifications.",
     "file": "certifications/iim-calcutta.md",
-    "tags": [
+    "keywords": [
       "education",
       "iim",
       "mba",
