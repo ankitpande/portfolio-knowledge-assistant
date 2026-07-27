@@ -13,3 +13,11 @@ Ankit Pandey is an analytics and digital lending transformation leader[cite: 1] 
 - **EPBA - Business Analytics:** Indian Institute of Management (IIM), Calcutta (2016–2018)[cite: 1].
 - **PGDM - Finance & IT:** T.A. Pai Management Institute (TAPMI), Manipal (2014–2016)[cite: 1].
 - **B.E./B.Tech - Computer Science:** Shri Vaishnav Institute of Technology and Science (SVITS), Indore (2008–2012)[cite: 1].
+
+# Contact & Online Profile
+
+- **Email:** ankitpandeycs@gmail.com
+- **LinkedIn:** https://linkedin.com/in/ankitpandeycs
+- **GitHub:** https://github.com/ankitpande
+- **Location:** Pune, Maharashtra, India
+- **Mobile/Phone:** +91-7600448745
